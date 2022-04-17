@@ -1,5 +1,9 @@
- Get Reward Points For Doing Nothing Well Worth The Grind
- This Script is A Fully Automatic Web Searcher For Bing Rewards About Time to Get Some Money 
+ # Get Reward Points For Doing Nothing Well Worth The Grind
+ # This Script is A Fully Automatic Web Searcher For Bing Rewards About Time to Get Some Money 
+ 
+ Please submit an issue or pull-request if you have an idea for a feature
+
+
  
  GamePass Ultimate
 
