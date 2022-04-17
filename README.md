@@ -53,3 +53,12 @@ Taco Bell eGift Card
 
 5,250 points
 
+
+Now we need to tell the our computer to run our Python script every day, enter this into Terminal
+
+crontab -e
+
+Inside crontab, I have added the two lines seen below to run at 5:00 and 5:30 AM every morning
+
+0 5 * * * /full/path/to/directory/bingsearch.sh
+After saving this it should run at the specified times every morning. You may want to check to make sure the cron job runs correctly by first putting a time thats a minute or two after the current time and wait for it to run and make sure it works. You also need to make sure to log in to your Microsoft Rewards account in Bing for both your primary browser 
