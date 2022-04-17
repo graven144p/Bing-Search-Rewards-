@@ -54,14 +54,6 @@ Taco Bell eGift Card
 5,250 points
 
 
-Reward Bot Ext Does Incompleted Quizzes And Searches
-
-Unzip the downloaded file to somewhere you want to keep it.
-Open Chrome.
-Go to chrome://extensions/ and enable Developer mode.
-Select Load unpacked and select the Reward Bot Ext folder.
-Enable the extension.
-
 Now we need to tell the our computer to run our Python script every day, enter this into Terminal
 
 crontab -e

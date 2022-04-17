@@ -34,12 +34,6 @@ for i in range(1, 31):
     # Open URL in new browser window
     webbrowser.open_new_tab(url) # opens in default browser
 
-    time.sleep(3)
+    time.sleep(4)
 
-    if i % 4 == 0:
-        time.sleep(30)
-        os.system("pkill chromium-browse")
-        time.sleep(10)
-
-os.system("pkill chromium-browse")
-
+  
