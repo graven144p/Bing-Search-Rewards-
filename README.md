@@ -59,7 +59,16 @@ Taco Bell eGift Card
 
 5,250 points
 
+# Installation 
+git clone https://github.com/dux074/Bing-Search-Rewards- 
 
+cd Bing-Search-Rewards-
+
+chmod +x bingsearch.sh
+
+./bingseach.sh 
+
+# More Info 
 Now we need to tell the our computer to run our Python script every day, enter this into Terminal
 
 crontab -e
