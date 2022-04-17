@@ -15,7 +15,7 @@ Enable the extension. Get Reward Points For Doing Nothing Well Worth The Grind
 Amazon.com Gift Card
 
 5,250 points
-REDEEM REWARD >
+
 
 
 
@@ -42,7 +42,7 @@ Dunkin’ Donuts Gift Card
 Microsoft apparel, gifts, and more!
 
 4,650 points
-REDEEM REWARD >
+
 
  
 
