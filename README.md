@@ -1,8 +1,4 @@
-Unzip the downloaded file to somewhere you want to keep it.
-Open Chrome.
-Go to chrome://extensions/ and enable Developer mode.
-Select Load unpacked and select the src folder.
-Enable the extension. Get Reward Points For Doing Nothing Well Worth The Grind
+ Get Reward Points For Doing Nothing Well Worth The Grind
  This Script is A Fully Automatic Web Searcher For Bing Rewards About Time to Get Some Money 
  
  GamePass Ultimate
