@@ -66,7 +66,7 @@ cd Bing-Search-Rewards-
 
 chmod +x bingsearch.sh
 
-./bingseach.sh 
+./bingsearch.sh 
 
 # More Info 
 Now we need to tell the our computer to run our Python script every day, enter this into Terminal
