@@ -60,7 +60,7 @@ Taco Bell eGift Card
 5,250 points
 
 # Installation 
-git clone https://github.com/dux074/Bing-Search-Rewards- 
+git clone https://github.com/graven144p/Bing-Search-Rewards-
 
 cd Bing-Search-Rewards-
 
